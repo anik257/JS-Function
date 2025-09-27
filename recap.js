@@ -21,3 +21,4 @@ function doMath(num1,num2){
 }
 const result = doMath(22,65);
 console.log(result);
+
