@@ -11,3 +11,6 @@ const size = str.length;
 }
 evenSizedString('Dhaka')
 evenSizedString('Faridpur')
+
+
+
