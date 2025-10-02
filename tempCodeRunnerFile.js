@@ -1,2 +1,1 @@
-evenSizedString('Dhaka')
-// evenSizedString('Faridpur')
+const numbers =[33, 23, 11, 24, 22, 46];
