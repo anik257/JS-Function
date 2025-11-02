@@ -14,10 +14,12 @@ for (const number of odds){
   
 } 
   const count = odds.length;
+  const avg = sum/count;
+  return avg;
 
-console.log(sum, count);
+console.log(sum, count, avg);
 
 }
-const numbers = [42, 13, 58, 65, 81, 96, 7];
+const numbers = [42, 13, 58, 65, 81, 96, 7, 5, 105];
 const avg = oddAverage(numbers);
 console.log('average of the odd numbers is: ',avg);
